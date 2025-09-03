@@ -1,3 +1,4 @@
+// This file contains the client-side logic for the activities signup app.
 document.addEventListener("DOMContentLoaded", () => {
   const activitiesList = document.getElementById("activities-list");
   const activitySelect = document.getElementById("activity");
